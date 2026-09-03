@@ -4,6 +4,7 @@
 
 ![Airline Lakehouse Live Demo](images/airline_lakehouse_demo.gif)
 
+> Interactive version: [Open the full live project](https://anitha-airline-lakehouse.anitharajbale23.chatgpt.site/#technology)
 
 ## Project Overview
 
