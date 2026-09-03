@@ -4,7 +4,6 @@
 
 ![Airline Lakehouse Live Demo](images/airline_lakehouse_demo.gif)
 
-**Click the image above to open the interactive project.**
 
 ## Project Overview
 
