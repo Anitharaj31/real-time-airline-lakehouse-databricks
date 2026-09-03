@@ -2,7 +2,9 @@
 
 ## Live Project Demo
 
-[View Interactive Project Documentation](https://anitha-airline-lakehouse.anitharajbale23.chatgpt.site/#technology)
+[![Interactive Airline Lakehouse Demo](images/live_project_demo.png)](https://anitha-airline-lakehouse.anitharajbale23.chatgpt.site/#technology)
+
+**Click the image above to open the interactive project.**
 
 ## Project Overview
 
