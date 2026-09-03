@@ -1,8 +1,8 @@
 # Real-Time Airline Lakehouse Data Engineering Project
 
-## Live Project Demo
+## Live Project Preview
 
-[![Interactive Airline Lakehouse Demo](images/live_project_demo.png)](https://anitha-airline-lakehouse.anitharajbale23.chatgpt.site/#technology)
+![Airline Lakehouse Live Demo](images/airline_lakehouse_demo.gif)
 
 **Click the image above to open the interactive project.**
 
