@@ -575,6 +575,29 @@ No valid records were lost between Silver and Gold.
 - Cross-layer reconciliation
 
 ---
+## How to Run
+
+1. Configure the Databricks workspace and Unity Catalog.
+2. Create the required Bronze, Silver, Gold, and Monitoring schemas.
+3. Place source data in the configured Unity Catalog volume.
+4. Run the Bronze ETL pipeline:
+
+   `airline_bronze_ingestion`
+
+5. Execute the Databricks workflow:
+
+   `bronze_ingestion → silver_transformations → gold_transformations`
+
+6. Validate the final reconciliation across Bronze, Silver, Quarantine, and Gold tables.
+
+### Expected Final Counts
+
+- Bronze flights: **1,070**
+- Silver clean flights: **1,065**
+- Quarantined flights: **5**
+- Gold summarized flights: **1,065**
+- Gold feature rows: **1,065**
+
 
 ## Project Outcome
 
