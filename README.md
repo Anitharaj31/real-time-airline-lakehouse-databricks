@@ -6,6 +6,23 @@
 
 > Interactive version: [Open the full live project](https://anitha-airline-lakehouse.anitharajbale23.chatgpt.site/#technology)
 
+## Repository Structure
+
+```text
+real-time-airline-lakehouse-databricks/
+├── README.md
+├── images/
+│   ├── airline_lakehouse_demo.gif
+│   ├── 01_workflow_architecture.png
+│   ├── 02_successful_workflow_run.png
+│   ├── 03_final_reconciliation.png
+│   ├── 04_quarantine_reasons.png
+│   └── 05_gold_route_delay_analysis.png
+└── transformations/
+    ├── bronze_ingestion.py
+    ├── silver_transformations.py
+    └── gold_transformations.py
+
 ## Project Overview
 
 This project implements an end-to-end airline data engineering lakehouse on Databricks using a Bronze, Silver, and Gold medallion architecture.
